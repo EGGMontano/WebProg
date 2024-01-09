@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>
+                kekw
+                <link= rel="icon" type="image/x-icon" href="https://www.streamscheme.com/wp-content/uploads/2020/07/kekw-emote.jpg">
+            </title>
+        </head>
+        <style>
+            p {color: red;}
+            table, th, td {border: 1px solid black;}
+        </style>
+        <body>
+
+            <h1>What is kekw?</h1>
+            <p>kekw is a Twitch emote</p>
+            <h2>Why kekw?</h2>
+            <p>'Cause why not?</p>
+            <h3>How kekw?</h3>
+            <p>Just like your "lol"s and "lmao"s, but more Twitch chat-y</p>
+            <h4>kekw image</h4>
+            <a href = "https://www.streamscheme.com/wp-content/uploads/2020/07/kekw-emote.jpg">kekw</a>
+            <h5>kekw</h5>
+            <a href = "https://www.ciit.edu.ph" target = "_blank">CIIT link</a>
+            <br><br>
+            <table>
+                <tr>
+                    <th>Skill</th>
+                    <th>Confidence (Out of 10)</th>
+                </tr>
+                <tr>
+                    <td>Coding:</td>
+                    <td>4.5</td>
+                </tr>
+                    <td>MSExcel/GSheets:</td>
+                    <td>6.9</td>
+                <tr>
+                    <td>Cramming:</td>
+                    <td>7.2</td>
+                </tr>
+                <tr>
+                    <td>Late night talks:</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>Magpupuyat kasama ka:</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>Time Management:</td>
+                    <td>10</td>
+                </tr>
+            </table>
+
+        </body>
+    </html>
