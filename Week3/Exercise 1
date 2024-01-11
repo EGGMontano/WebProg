@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head lang = "en">
+        <title>Exercise 1</title>
+    </head>
+    <body>
+        <h1>#1</h1><br>
+        <p style="color: red;">kekw</p><br>
+            <img src="https://www.streamscheme.com/wp-content/uploads/2020/07/kekw-emote.jpg" alt="kekw" usemap="#kekw">
+            <map name = "kekw">
+                <area shape = "default" href = "https://www.streamscheme.com/wp-content/uploads/2020/07/kekw-emote.jpg">
+            </map><br>
+        <h1>#2</h1><br>
+        <p style="color: blue;">CIIT Website</p><br>
+            <img src="https://www.streamscheme.com/wp-content/uploads/2020/07/kekw-emote.jpg" alt="kekw" usemap="#kekw">
+            <map name = "kekw">
+                <area shape = "default" href = "ciit.edu.ph">
+            </map><br>
+        <h1>#3</h1><br>
+        <p>CIIT New Tab</p>
+            <img src="https://www.streamscheme.com/wp-content/uploads/2020/07/kekw-emote.jpg" alt="kekw" usemap="#kekw">
+                <map name = "kekw">
+                    <area shape = "default" href = "ciit.edu.ph">
+                </map>
+    </body>
+</html>
