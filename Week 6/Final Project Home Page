@@ -1,15 +1,95 @@
 <!DOCTYPE html>
 <html>
     <head lang = "en">
-        <title>
-            Home Page
-        </title>
-        <link= rel="icon" type="image/x-icon" href="https://www.streamscheme.com/wp-content/uploads/2020/07/kekw-emote.jpg">
-    </head>
-    <style>
+      <title>
+        Mememoter
+      </title>
+          <link = rel = "icon" type = "image/x-icon" href = "https://www.streamscheme.com/wp-content/uploads/2020/07/kekw-emote.jpg">
+      <meta name = "viewport" content = "width=device-width, initial-scale1.0">
+      <style>
+        * {
+          box-sizing: border-box;
+        }
+        .menu {
+          float: left;
+          width: 20%;
+          text-align: center;
+          color: antiquewhite;
+        }
+        .menu a {
+          background-color: #483d8b;
+          padding: 8px;
+          margin-top: 7px;
+          display: block;
+          width: 100px;
+          color: antiquewhite;
+        }
 
-    </style>
-    <body>
+        .main {
+          float: left;
+          width: 60%;
+          padding: 20px;
+          margin-top: 7px;
+          display: block;
+          background-color: #737373;
+          color: antiquewhite;
+        }
+        .right {
+          background-color: #483d8b;
+          float: left;
+          width: 20%;
+          padding: 15px;
+          margin-top: 7px;
+          text-align: center;
+          color: antiquewhite;
+        }
 
-    </body>
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
+</style>
+</head>
+
+<body style = "background-color:black">
+<div style="background-color:#483d8b;padding:15px;text-align:center;">
+  <h1>MEMEMOTER</h1>
+  <h5>Getting your memes turn into emotes</h5>
+</div>
+
+<div style="overflow:auto">
+  <div class="menu">
+    <a href="#">GMail</a>
+    <a href="#">Discord</a>
+    <a href="#">YouTube</a>
+    <a href="#">Tutorials</a>
+  </div>
+
+  <div class="main">
+    <h2>What We Offer</h2>
+    <p>In the area of streaming (Twitch, YouTube, Bilibili, etc.), streamers make/have some type of incentive to make you subscribe/pay in ways that won’t just support them but you also get something in return, like emotes! Emotes are something that is very prevalent when chatting in stream chats, almost an integral part of their culture. Making Twitch-like emotes, Discord reacts, Telegram stickers, etc. that can be individualized/personalized for each streamer/person (which could also be very slightly animated to give it a bit more pop).</p>
+  </div>
+
+  <div class="right">
+    <h2>About Us</h2>
+    <p>As big avid fans of watching streamers, having to make some emotes for them, as fans and as part of their community, is just fun. Making people feel more together and connected in chat, getting to do inside jokes with small pictures that just feel much better than emojis, and maybe even tempting other people to spend some money for the streamers themselves to unlock said emotes.</p>
+  </div>
+</div>
+
+<div class="bottom">
+  <h2>Some Things We've Done</h2><h5>(not actually)</h5>
+    <img src = "https://cdn1.dotesports.com/wp-content/uploads/2020/03/13131136/feelsgoodman.jpg" style="height:100px;width:100px;">
+    <img src = "https://www.streamscheme.com/wp-content/uploads/2020/07/kekw-emote.jpg" style="height:90px;width:90px;">
+    <img src = "https://yt3.ggpht.com/a/AATXAJxNlVAT-yjSJJHb9K2W0O-IAZSEw5iwUZyE=s900-c-k-c0xffffffff-no-rj-mo" style="height:100px;width:100px;">
+    <img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.gameliberty.club%2Fmedia%2Fcustom_emojis%2Fimages%2F000%2F001%2F208%2Fstatic%2Fpepehands.png&f=1&nofb=1&ipt=aae32f60af16e1d5ed0a03b231788cf8e1666006929319b9fb83d2f7bbc35671&ipo=images" style="height:100px;width:100px;">
+    <img src = "https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/421605856_941188107423716_7338527219526055807_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeHtNVO9A0vgINfveZyBAJQWLu8zCylmGXAu7zMLKWYZcLdhBWkCn0-q8sSi_alj_itBrXzTYmGSdXu9xUj-NUW8&_nc_ohc=Gf9rkev9WXYAX8n6qVF&_nc_ht=scontent.fmnl17-3.fna&oh=03_AdS1wirRPnKRbz2Av4MU5Ru_zZTvvIQHpgBHiHzdiobqAA&oe=65E5B9B1" style="height:100px;width:100px;">
+
+
+</div>
+
+<div style="background-color:#483d8b;text-align:center;padding:10px;margin-top:7px;">Final Project Home Page</div>
+
+</body>
 </html>
